@@ -1,4 +1,4 @@
-# design_patterns
+# Design_patterns
 📌Design patterns on Java <br>
 📌Used patterns: <br>
 
